@@ -1,0 +1,607 @@
+.frame-child {
+  position: absolute;
+  top: 290px;
+  left: 238px;
+  width: 49px;
+  height: 125px;
+  overflow: hidden;
+}
+.selected-projects {
+  align-self: stretch;
+  position: relative;
+  line-height: 70px;
+}
+.these-are-some {
+  position: relative;
+  font-size: var(--body-xl-medium-size);
+  font-weight: 500;
+  font-family: var(--body);
+  display: inline-block;
+  width: 348px;
+}
+.selected-projects-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 348px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 18px;
+  font-family: var(--name);
+}
+.case-study-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 528px;
+  height: 528px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.dfma-the-bionic {
+  position: relative;
+  line-height: 70px;
+  font-family: var(--name);
+}
+.go-to-project,
+.how-i-designed {
+  position: relative;
+  display: inline-block;
+}
+.how-i-designed {
+  font-size: var(--body-size);
+  line-height: 32px;
+  color: var(--color-gray-500);
+  width: 559px;
+  height: 109px;
+  flex-shrink: 0;
+}
+.go-to-project {
+  font-size: var(--tab-bar-size);
+  text-decoration: underline;
+  font-weight: 500;
+  width: 150px;
+  cursor: pointer;
+}
+.text-one {
+  position: absolute;
+  top: 124px;
+  left: 620px;
+  height: 189px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.case-study-one,
+.frame-item {
+  position: absolute;
+  top: 1259px;
+  left: 0;
+  width: 1234px;
+  height: 528px;
+}
+.frame-item {
+  top: 143.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--white);
+  box-sizing: border-box;
+  width: 1241px;
+  height: 1px;
+}
+.case-study-two,
+.how-i-reduced {
+  position: absolute;
+  left: 0;
+  width: 1240px;
+}
+.case-study-two {
+  top: 410px;
+  height: 719px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.how-i-reduced {
+  top: 249px;
+  font-size: var(--body-size);
+  line-height: 32px;
+  color: var(--color-gray-500);
+  display: inline-block;
+  height: 41px;
+}
+.machine-design-three {
+  position: relative;
+  line-height: 70px;
+}
+.text-two {
+  position: absolute;
+  top: 179px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-family: var(--name);
+}
+.go-to-project1 {
+  position: absolute;
+  top: 329px;
+  left: 0;
+  font-size: var(--tab-bar-size);
+  text-decoration: underline;
+  font-weight: 500;
+  cursor: pointer;
+}
+.frame-inner {
+  position: absolute;
+  top: 1787px;
+  left: 712px;
+  width: 528px;
+  height: 528px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-parent {
+  position: relative;
+  width: 1240px;
+  height: 2389px;
+}
+.landing-page-inner {
+  position: absolute;
+  top: 1906px;
+  left: 0;
+  background-color: var(--color-dimgray-200);
+  width: 1600px;
+  height: 2500px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: 55px 0;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+.mechanical-engineering {
+  position: relative;
+  line-height: 70px;
+  display: inline-block;
+  width: 343px;
+}
+.mechanical-engineering-wrapper {
+  position: absolute;
+  top: 260px;
+  left: 100px;
+  width: 341px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.from-northwestern-university {
+  position: relative;
+}
+.from-northwestern-university-i-wrapper {
+  position: absolute;
+  top: 0;
+  left: 63px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.email-button,
+.linkedin-button {
+  position: relative;
+  text-decoration: underline;
+  font-weight: 500;
+  display: inline-block;
+  width: 81px;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.email-button {
+  text-align: center;
+}
+.linkedin-button-parent {
+  position: absolute;
+  top: 40px;
+  left: 205px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+  text-align: right;
+  font-size: var(--body-lg-medium-size);
+  color: var(--straight-black);
+}
+.frame-container {
+  position: absolute;
+  top: calc(50% + 311.5px);
+  left: calc(50% - 299px);
+  width: 597px;
+  height: 62px;
+  font-size: var(--body-xl-medium-size);
+  color: var(--color-gray-400);
+  font-family: var(--body);
+}
+.div {
+  position: relative;
+  line-height: 70px;
+  display: inline-block;
+  width: 84px;
+  height: 84px;
+  flex-shrink: 0;
+}
+.wrapper {
+  position: absolute;
+  top: 288px;
+  left: 484px;
+  width: 84px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: var(--display-xl-regular-size);
+}
+.manufacturing-and-design {
+  position: relative;
+  line-height: 70px;
+  display: inline-block;
+  width: 548px;
+}
+.manufacturing-and-design-engin-wrapper {
+  position: absolute;
+  top: 260px;
+  left: 611px;
+  width: 548px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(
+      rgba(115, 143, 167, 0.4),
+      rgba(115, 143, 167, 0.4)
+    ),
+    #fff;
+  width: 1600px;
+  height: 935px;
+  overflow: hidden;
+  font-size: var(--title-1-size);
+  color: var(--color-darkslategray-300);
+  font-family: var(--name);
+}
+.rcwoj-shaft-2-assembly-1-icon {
+  position: absolute;
+  top: 92px;
+  left: 80px;
+  width: 1440px;
+  height: 791px;
+  object-fit: cover;
+}
+.about-button,
+.projects-button,
+.ross-wojcik {
+  position: relative;
+  display: inline-block;
+  width: 339.1px;
+  flex-shrink: 0;
+}
+.about-button,
+.projects-button {
+  width: 104px;
+  cursor: pointer;
+}
+.about-button {
+  width: 78px;
+}
+.nav-bar,
+.projects-button-parent {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.projects-button-parent {
+  width: 452.93px;
+  align-items: flex-start;
+  gap: var(--gap-39xl);
+  text-align: center;
+  font-family: var(--tab-bar);
+}
+.nav-bar {
+  position: absolute;
+  top: 40px;
+  left: 80px;
+  width: 1440px;
+  height: 29px;
+  align-items: center;
+  gap: 647px;
+  font-size: var(--tab-bar-size);
+  color: var(--rich-black);
+  font-family: var(--name);
+}
+.acorn-genetics-logo-1-button,
+.flashcut-logo-1-button {
+  position: relative;
+  height: 145px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.acorn-genetics-logo-1-button {
+  border-radius: var(--br-base);
+  width: 574px;
+}
+.flashcut-logo-1-button {
+  width: 579px;
+}
+.acorn-genetics-logo-1-button-parent,
+.industry-experience-parent {
+  width: 1400px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  justify-content: flex-start;
+}
+.acorn-genetics-logo-1-button-parent {
+  height: 234px;
+  flex-direction: row;
+  padding: 44px 0;
+  box-sizing: border-box;
+  align-items: center;
+  gap: 247px;
+}
+.industry-experience-parent {
+  height: 274px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-mini);
+}
+.design-project-clients {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 70px;
+}
+.frame-156-button {
+  position: relative;
+  border-radius: var(--br-base);
+  width: 574px;
+  height: 144px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.shirley-ryan-abilitylab-logo-4-icon {
+  position: absolute;
+  top: 0;
+  left: 109px;
+  width: 358px;
+  height: 159px;
+  object-fit: cover;
+}
+.frame-157-button {
+  position: relative;
+  border-radius: var(--br-base);
+  background-color: var(--white);
+  width: 577px;
+  height: 144px;
+  overflow: hidden;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.frame-156-button-parent {
+  position: absolute;
+  top: 85px;
+  left: 0;
+  width: 1400px;
+  height: 234px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 249px;
+}
+.hollister-incorporated-logo-1-icon {
+  position: absolute;
+  top: 0;
+  left: 67px;
+  width: 417px;
+  height: 207px;
+  object-fit: cover;
+}
+.frame-158-button {
+  position: absolute;
+  top: 389px;
+  left: 411px;
+  border-radius: var(--br-base);
+  background-color: var(--white);
+  width: 577px;
+  height: 142px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.design-project-clients-parent {
+  position: relative;
+  width: 1400px;
+  height: 531px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-div {
+  width: 1400px;
+  height: 850px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 45px;
+}
+.about-me,
+.landing-page-child {
+  position: absolute;
+  left: 0;
+  font-family: var(--name);
+}
+.landing-page-child {
+  top: 936px;
+  background-color: var(--color-darkslategray-300);
+  width: 1600px;
+  height: 970px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: 50px 0;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+.about-me {
+  top: 0;
+  line-height: 70px;
+}
+.contact-button1,
+.github-button {
+  position: relative;
+  text-decoration: underline;
+  font-weight: 500;
+}
+.github-button {
+  cursor: pointer;
+}
+.socials {
+  position: absolute;
+  top: 577px;
+  left: 460px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+  font-size: var(--body-lg-medium-size);
+  color: var(--straight-black);
+}
+.img-1797-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 477px;
+  height: 714px;
+  object-fit: cover;
+}
+.img-1797-1-wrapper {
+  position: absolute;
+  top: 113px;
+  left: 0;
+  background-color: #d9d9d9;
+  width: 386px;
+  height: 370px;
+  overflow: hidden;
+}
+.im-ross-a {
+  position: absolute;
+  top: 163px;
+  left: 445px;
+  font-size: var(--body-xl-medium-size);
+  line-height: 38px;
+  color: rgba(0, 0, 0, 0.85);
+  display: inline-block;
+  width: 608px;
+  height: 363px;
+}
+.line-div {
+  position: absolute;
+  top: 44.5px;
+  left: 291.5px;
+  border-top: 1px solid var(--black);
+  box-sizing: border-box;
+  width: 949px;
+  height: 1px;
+}
+.hello-there {
+  position: absolute;
+  top: 113px;
+  left: 445px;
+  font-size: var(--tab-bar-size);
+  font-weight: 500;
+  color: var(--color-gray-400);
+}
+.frame-child1 {
+  position: absolute;
+  top: 577px;
+  left: 561px;
+  width: 172px;
+  height: 49px;
+  overflow: hidden;
+}
+.about-me-parent {
+  position: relative;
+  width: 1240px;
+  height: 611px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.landing-page-inner1 {
+  position: absolute;
+  top: 4406px;
+  left: 0;
+  width: 1600px;
+  height: 669px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: var(--black);
+}
+.peristomal-skin-sensor {
+  position: absolute;
+  top: 3897px;
+  left: 180px;
+  line-height: 70px;
+  font-family: var(--name);
+}
+.go-to-project2,
+.how-i-made {
+  position: absolute;
+  left: 180px;
+  display: inline-block;
+}
+.how-i-made {
+  top: 3977px;
+  font-size: var(--body-size);
+  line-height: 32px;
+  color: var(--color-gray-500);
+  width: 559px;
+  height: 83px;
+}
+.go-to-project2 {
+  top: 4060px;
+  font-size: var(--tab-bar-size);
+  text-decoration: underline;
+  font-weight: 500;
+  width: 150px;
+  cursor: pointer;
+}
+.landing-page {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 5148px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--display-md-regular-size);
+  color: var(--white);
+  font-family: var(--body);
+}

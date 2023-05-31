@@ -1,0 +1,644 @@
+.line-icon {
+  position: absolute;
+  top: 80px;
+  left: 0;
+  width: 1240px;
+  height: 1px;
+}
+.machine-design-three1 {
+  position: relative;
+  line-height: 70px;
+}
+.machine-design-three-stage-ge-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-23xl);
+  color: var(--color-darkslategray-300);
+  font-family: var(--name);
+}
+.frame-icon {
+  position: absolute;
+  top: 210px;
+  left: 0;
+  width: 1240px;
+  height: 435.55px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-child2,
+.pinion-drawing-2-icon {
+  position: absolute;
+  top: 1846px;
+  left: 493px;
+  width: 746.78px;
+  height: 528px;
+  object-fit: cover;
+}
+.frame-child2 {
+  top: 910px;
+  left: 0;
+  width: 528px;
+  height: 615.8px;
+  overflow: hidden;
+}
+.challenge-design-a-container,
+.input-speed-3000 {
+  position: absolute;
+  top: 110px;
+  left: 0;
+  line-height: 32px;
+  display: inline-block;
+  width: 1240px;
+  height: 73px;
+}
+.input-speed-3000 {
+  top: 675px;
+  font-size: 26px;
+  text-align: center;
+  height: 39px;
+}
+.frame-child3 {
+  position: absolute;
+  top: 743px;
+  left: 0;
+  height: 70px;
+}
+.i-used-stress,
+.shaft-design {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.shaft-design {
+  top: 743px;
+  font-size: var(--heading-2-size);
+  line-height: 70px;
+  font-family: var(--name);
+  width: 215px;
+  height: 61px;
+}
+.i-used-stress {
+  top: 815px;
+  line-height: 32px;
+  width: 1240px;
+  height: 73px;
+}
+.the-biggest-challenge {
+  margin: 0;
+}
+.the-biggest-challenge-container {
+  position: absolute;
+  top: 1572px;
+  left: 0;
+  line-height: 32px;
+  display: inline-block;
+  width: 1240px;
+  height: 83px;
+}
+.bearing-reactions {
+  margin-bottom: 0;
+}
+.bearing-reactions-principles-s {
+  margin: 0;
+  padding-left: var(--padding-18xl);
+}
+.calculated-bearing-reactions-container {
+  position: absolute;
+  top: 910px;
+  left: 598px;
+  font-size: inherit;
+  line-height: 32px;
+  color: var(--color-darkslategray-300);
+  display: inline-block;
+  width: 642px;
+  height: 533px;
+}
+.gear-design {
+  position: absolute;
+  top: 1681px;
+  left: 0;
+  font-size: var(--heading-2-size);
+  line-height: 70px;
+  font-family: var(--name);
+  display: inline-block;
+  width: 215px;
+  height: 61px;
+}
+.calculated-contact-stress-container,
+.i-used-the {
+  position: absolute;
+  top: 1753px;
+  left: 0;
+  line-height: 32px;
+  display: inline-block;
+  width: 1240px;
+  height: 82px;
+}
+.calculated-contact-stress-container {
+  top: 1856px;
+  font-size: inherit;
+  color: var(--color-darkslategray-300);
+  width: 493px;
+  height: 518px;
+}
+.choosing-the-optimal,
+.gear-design1 {
+  position: absolute;
+  top: 2420px;
+  left: 0;
+  line-height: 32px;
+  display: inline-block;
+  width: 1240px;
+  height: 73px;
+}
+.gear-design1 {
+  top: 2519px;
+  font-size: var(--heading-2-size);
+  line-height: 70px;
+  font-family: var(--name);
+  width: 215px;
+  height: 61px;
+}
+.calculated-shaft-loads-container,
+.i-determined-the {
+  position: absolute;
+  top: 2591px;
+  left: 0;
+  line-height: 32px;
+  display: inline-block;
+  width: 1240px;
+  height: 110px;
+}
+.calculated-shaft-loads-container {
+  top: 2722px;
+  left: 598px;
+  font-size: inherit;
+  color: var(--color-darkslategray-300);
+  width: 642px;
+  height: 518px;
+}
+.blank-line15 {
+  margin: 0;
+  font-size: var(--body-size);
+  color: var(--black);
+}
+.designing-machine-elements {
+  margin: 0;
+  font-size: var(--heading-2-size);
+}
+.what-i-learned-container {
+  position: absolute;
+  top: 3285px;
+  left: 0;
+  line-height: 32px;
+  display: inline-block;
+  width: 1240px;
+  height: 185px;
+  font-size: var(--display-md-regular-size);
+}
+.frame-child4,
+.vector-parent {
+  position: absolute;
+  left: 0;
+  overflow: hidden;
+}
+.frame-child4 {
+  top: 2722px;
+  width: 528px;
+  height: 528px;
+  object-fit: cover;
+}
+.vector-parent {
+  top: 0;
+  width: 1240px;
+  height: 3470px;
+}
+.peristomal-skin-sensor-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-23xl);
+  color: var(--color-darkslategray-300);
+}
+.frame-child5 {
+  position: absolute;
+  top: 69.5px;
+  left: 0;
+  width: 1240px;
+  height: 1px;
+}
+.background,
+.the-design-process {
+  position: absolute;
+  top: 87px;
+  left: 0;
+  font-size: var(--heading-2-size);
+  line-height: 70px;
+  display: inline-block;
+  width: 387px;
+  height: 61px;
+}
+.the-design-process {
+  top: 708px;
+  width: 490px;
+}
+.main-assembly-fixture-iso-1 {
+  position: absolute;
+  top: 1764px;
+  left: 0;
+  width: 660.93px;
+  height: 390px;
+}
+.hollister-inc-is-container {
+  position: absolute;
+  top: 611px;
+  left: 0;
+  line-height: 32px;
+  display: inline-block;
+  width: 1240px;
+  height: 97px;
+  font-family: var(--body);
+}
+.imd-ostomy-pouch-en-1-icon,
+.process-chart-1-icon {
+  position: absolute;
+  top: 786px;
+  left: 0;
+  width: 725px;
+  height: 314px;
+  object-fit: cover;
+}
+.imd-ostomy-pouch-en-1-icon {
+  top: 0;
+  width: 413.33px;
+  height: 414px;
+}
+.adhesive-barrier-1-icon,
+.surface-deformationpng-1-icon {
+  position: absolute;
+  top: 0;
+  left: 413px;
+  width: 413.33px;
+  height: 413.33px;
+  object-fit: cover;
+}
+.surface-deformationpng-1-icon {
+  left: 826px;
+}
+.imd-ostomy-pouch-en-1-parent {
+  position: absolute;
+  top: 165px;
+  left: 0;
+  background-color: var(--white);
+  border: 5px solid var(--color-darkslategray-300);
+  box-sizing: border-box;
+  width: 1240px;
+  height: 414px;
+  overflow: hidden;
+}
+.we-used-ulrich {
+  position: absolute;
+  top: 872px;
+  left: 788px;
+  line-height: 32px;
+  font-family: var(--body);
+  color: var(--black);
+  display: inline-block;
+  width: 445px;
+  height: 141px;
+}
+.research-and-prototyping,
+.result {
+  position: absolute;
+  top: 1114px;
+  left: 0;
+  font-size: var(--heading-2-size);
+  line-height: 70px;
+  display: inline-block;
+  width: 490px;
+  height: 61px;
+}
+.result {
+  top: 2123px;
+  left: -3px;
+}
+.contact-sensor-circuit-diagram-icon,
+.math-model-diagram-1-icon {
+  position: absolute;
+  top: 1210px;
+  left: 353px;
+  width: 879.54px;
+  height: 414px;
+  object-fit: cover;
+}
+.contact-sensor-circuit-diagram-icon {
+  top: 1688px;
+  left: 0;
+  width: 809.04px;
+}
+.i-created-a,
+.i-designed-assembled {
+  position: absolute;
+  top: 1312px;
+  left: -3px;
+  line-height: 32px;
+  font-family: var(--body);
+  color: var(--black);
+  display: inline-block;
+  width: 292px;
+  height: 210px;
+}
+.i-designed-assembled {
+  top: 1805px;
+  left: 891px;
+  width: 342px;
+  height: 206px;
+}
+.skin-sensor-component-diagram-icon {
+  top: 2205px;
+  height: 554px;
+  object-fit: cover;
+}
+.frame-parent2,
+.skin-sensor-component-diagram-icon,
+.the-prototype-used {
+  position: absolute;
+  left: 0;
+  width: 1240px;
+}
+.the-prototype-used {
+  top: 2780px;
+  line-height: 32px;
+  font-family: var(--body);
+  display: inline-block;
+  height: 139px;
+}
+.frame-parent2 {
+  top: 5977px;
+  height: 2887px;
+  overflow: hidden;
+  font-family: var(--name);
+}
+.frame-parent1 {
+  position: absolute;
+  top: 70px;
+  left: 180px;
+  width: 1240px;
+  height: 8864px;
+}
+.challenge-reverse-engineer-container {
+  position: absolute;
+  top: 96px;
+  left: 0;
+  line-height: 32px;
+  display: inline-block;
+  width: 1240px;
+  height: 73px;
+}
+.img-3237-1-icon {
+  position: absolute;
+  top: 270px;
+  left: 0;
+  width: 550px;
+  height: 385.9px;
+  object-fit: cover;
+}
+.i-analyzed-each-container {
+  position: absolute;
+  top: 350px;
+  left: 620px;
+  line-height: 32px;
+  color: var(--color-darkslategray-300);
+  display: inline-block;
+  width: 620px;
+  height: 176px;
+}
+.outer-plate-drawing-1-icon {
+  position: absolute;
+  top: 590px;
+  left: 690px;
+  width: 550px;
+  height: 426.43px;
+  object-fit: cover;
+}
+.i-created-toleranced {
+  position: absolute;
+  top: 767px;
+  left: 0;
+  line-height: 32px;
+  color: var(--color-darkslategray-300);
+  display: inline-block;
+  width: 620px;
+  height: 182px;
+}
+.assembly-process-design,
+.reverse-engineering {
+  position: absolute;
+  top: 169px;
+  left: 0;
+  font-size: var(--heading-2-size);
+  line-height: 70px;
+  font-family: var(--name);
+  display: inline-block;
+  width: 387px;
+  height: 61px;
+}
+.assembly-process-design {
+  top: 1027px;
+  width: 490px;
+}
+.screen-shot-2023-04-06-at-154 {
+  position: absolute;
+  top: 1103px;
+  left: 0;
+  width: 1240px;
+  height: 521.13px;
+  object-fit: cover;
+}
+.i-experimented-with {
+  position: absolute;
+  top: 1639px;
+  left: 0;
+  line-height: 32px;
+  display: inline-block;
+  width: 1240px;
+  height: 69px;
+}
+.main-assembly-fixture-iso-1-icon {
+  position: absolute;
+  top: 1764px;
+  left: 0;
+  width: 660.93px;
+  height: 390px;
+  object-fit: cover;
+}
+.result-prototype-line-container,
+.then-i-designed {
+  position: absolute;
+  line-height: 32px;
+  display: inline-block;
+}
+.then-i-designed {
+  top: 1869px;
+  left: 731px;
+  color: var(--color-darkslategray-300);
+  width: 509px;
+  height: 139px;
+}
+.result-prototype-line-container {
+  top: 2183px;
+  left: 0;
+  width: 1240px;
+  height: 44px;
+}
+.frame-parent3 {
+  position: absolute;
+  top: 3690px;
+  left: 180px;
+  width: 1240px;
+  height: 2227px;
+  overflow: hidden;
+}
+.contact-button2,
+.linkedin-button2 {
+  position: relative;
+  text-decoration: underline;
+  font-weight: 500;
+}
+.linkedin-button2 {
+  cursor: pointer;
+}
+.socials1 {
+  position: absolute;
+  top: 9065px;
+  left: 640px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+  font-size: var(--body-lg-medium-size);
+  color: var(--straight-black);
+}
+.project-content,
+.rectangle-div {
+  position: absolute;
+  left: 0;
+  width: 1600px;
+}
+.project-content {
+  top: 233px;
+  background-color: var(--color-dimgray-200);
+  height: 9204px;
+  overflow: hidden;
+  font-family: var(--body);
+}
+.rectangle-div {
+  top: 0;
+  background-color: var(--blue-grey);
+  height: 935px;
+}
+.rcwoj-shaft-2-assembly-1-icon1 {
+  position: absolute;
+  top: 0;
+  left: 80px;
+  width: 1440px;
+  height: 791px;
+  object-fit: cover;
+}
+.projects {
+  position: relative;
+  line-height: 70px;
+  display: inline-block;
+  width: 615px;
+}
+.projects-wrapper {
+  position: absolute;
+  top: 117px;
+  left: 80px;
+  width: 341px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  width: 1600px;
+  height: 233px;
+  overflow: hidden;
+  font-size: var(--title-1-size);
+  color: var(--color-darkslategray-300);
+}
+.ross-wojcik1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 339.12px;
+  cursor: pointer;
+}
+.about,
+.home {
+  display: inline-block;
+  flex-shrink: 0;
+}
+.home {
+  position: relative;
+  width: 104px;
+  cursor: pointer;
+}
+.about {
+  width: 78px;
+}
+.about,
+.contact {
+  position: relative;
+}
+.home-parent {
+  position: absolute;
+  top: 0;
+  left: 987.07px;
+  width: 452.93px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-39xl);
+  text-align: center;
+  font-family: var(--tab-bar);
+}
+.nav-bar1 {
+  position: absolute;
+  top: 40px;
+  left: 80px;
+  width: 1440px;
+  height: 29px;
+  font-size: var(--tab-bar-size);
+  color: var(--rich-black);
+}
+.projects-page {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 9437px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--body-size);
+  color: var(--white);
+  font-family: var(--name);
+}
