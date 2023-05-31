@@ -1,2 +1,0 @@
-# NORTHWESTERN-CODE
-# Portfolio
